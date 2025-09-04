@@ -1,0 +1,6 @@
+@PeopleLight_HostAddress = http://localhost:5052
+
+GET {{PeopleLight_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

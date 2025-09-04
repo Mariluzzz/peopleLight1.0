@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "PeopleLight.Api.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
